@@ -1,3 +1,5 @@
 :root{
     --bs-font-sans-serif: 'Rubik', sans-serif;
 }
+
+.container-xxL{max-width: 1530px;}
