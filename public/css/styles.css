@@ -3,3 +3,8 @@
 }
 
 .container-xxL{max-width: 1530px;}
+
+body{
+    background-image: url(/img/i-like-food.svg);
+    background-color: rgb(243, 243, 243);
+}
